@@ -1,0 +1,91 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Indo Girl",
+      "image": "file:///android_asset/cewekimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.am.panggilan.palsu.dengan.cewe.cantik.imut"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages1.png",
+      "video_url": "payalvdgaming1",
+      "voice_url": "payalmpgaming1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages2.png",
+      "video_url": "payalvdgaming2",
+      "voice_url": "payalmpgaming2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages3.png",
+      "video_url": "payalvdgaming3",
+      "voice_url": "payalmpgaming3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages4.png",
+      "video_url": "payalvdgaming4",
+      "voice_url": "payalmpgaming4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages5.png",
+      "video_url": "payalvdgaming1",
+      "voice_url": "payalmpgaming1.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages6.png",
+      "video_url": "payalvdgaming2",
+      "voice_url": "payalmpgaming2.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages7.png",
+      "video_url": "payalvdgaming3",
+      "voice_url": "payalmpgaming3.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Payal Dhare",
+      "image_url": "file:///android_asset/payalgamingimages8.png",
+      "video_url": "payalvdgaming4",
+      "voice_url": "payalmpgaming4.mp3"
+    }
+  ]
+}
