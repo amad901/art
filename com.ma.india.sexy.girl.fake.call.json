@@ -1,0 +1,70 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Payal Dhare",
+      "image": "file:///android_asset/payal.png",
+      "link": "https://play.google.com/store/apps/details?id=com.am.payal.gaming.fake.videocall.payal.dhare"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Kaash Plays",
+      "image_url": "file:///android_asset/KaashPlays.png",
+      "video_url": "indihesexyy1",
+      "voice_url": "suaraindihesexyy1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Kani hidra",
+      "image_url": "file:///android_asset/Kanihidra.png",
+      "video_url": "indihesexyy2",
+      "voice_url": "suaraindihesexyy2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Krutika",
+      "image_url": "file:///android_asset/Krutika.png",
+      "video_url": "indihesexyy3",
+      "voice_url": "suaraindihesexyy3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Savege Girl",
+      "image_url": "file:///android_asset/SavegeGirl.png",
+      "video_url": "indihesexyy4",
+      "voice_url": "suaraindihesexyy4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Shrelock",
+      "image_url": "file:///android_asset/Shrelock.png",
+      "video_url": "indihesexyy",
+      "voice_url": "suaraindihesexyy5.mp3"
+    }
+  ]
+}
