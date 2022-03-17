@@ -1,0 +1,83 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Payal Dhare",
+      "image": "file:///android_asset/payal.png",
+      "link": "https://play.google.com/store/apps/details?id=com.am.payal.gaming.fake.videocall.payal.dhare"
+    },
+    {
+      "id": 2,
+      "title": "Fake Call Indo Girl",
+      "image": "file:///android_asset/cewekimut.png",
+      "link": "https://play.google.com/store/apps/details?id=com.am.panggilan.palsu.dengan.cewe.cantik.imut"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Girlfriend",
+      "image_url": "file:///android_asset/japimage1e.png",
+      "video_url": "japvid1e",
+      "voice_url": "japvidas1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "PGirlfriend",
+      "image_url": "file:///android_asset/japimage2e.png",
+      "video_url": "japvid2e",
+      "voice_url": "japvidas2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Girlfriend",
+      "image_url": "file:///android_asset/japimage3e.png",
+      "video_url": "japvid3e",
+      "voice_url": "japvidas3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Girlfriend",
+      "image_url": "file:///android_asset/japimage4e.png",
+      "video_url": "japvid4e",
+      "voice_url": "japvidas4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Girlfriend",
+      "image_url": "file:///android_asset/japimage5e.png",
+      "video_url": "japvid5e",
+      "voice_url": "japvidas5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Girlfriend",
+      "image_url": "file:///android_asset/japimage6e.png",
+      "video_url": "japvid6e",
+      "voice_url": "japvidas6.mp3"
+    }
+  ]
+}
